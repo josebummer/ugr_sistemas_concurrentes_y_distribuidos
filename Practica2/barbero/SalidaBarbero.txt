@@ -1,0 +1,61 @@
+Barbero:	 duerme porque la sala de espera esta vacia.
+Cliente 0:	 entra en la barberia.
+Barbero:	 da paso al cliente para pelarlo
+Cliente 0:	 comienza a pelarse.
+Cliente 1:	 entra en la barberia.
+Cliente 1:	 espera porque el barbero esta ocupado.
+Cliente 2:	 entra en la barberia.
+Cliente 2:	 espera porque el barbero esta ocupado.
+Cliente 0:	 termina de pelarse.
+Barbero:	 da paso al cliente para pelarlo
+Cliente 1:	 comienza a pelarse.
+Cliente 0:	 entra en la barberia.
+Cliente 0:	 espera porque el barbero esta ocupado.
+Cliente 1:	 termina de pelarse.
+Barbero:	 da paso al cliente para pelarlo
+Cliente 2:	 comienza a pelarse.
+Cliente 2:	 termina de pelarse.
+Barbero:	 da paso al cliente para pelarlo
+Cliente 0:	 comienza a pelarse.
+Cliente 0:	 termina de pelarse.
+Barbero:	 duerme porque la sala de espera esta vacia.
+Cliente 1:	 entra en la barberia.
+Barbero:	 da paso al cliente para pelarlo
+Cliente 1:	 comienza a pelarse.
+Cliente 2:	 entra en la barberia.
+Cliente 2:	 espera porque el barbero esta ocupado.
+Cliente 0:	 entra en la barberia.
+Cliente 0:	 espera porque el barbero esta ocupado.
+Cliente 1:	 termina de pelarse.
+Barbero:	 da paso al cliente para pelarlo
+Cliente 2:	 comienza a pelarse.
+Cliente 1:	 entra en la barberia.
+Cliente 1:	 espera porque el barbero esta ocupado.
+Cliente 2:	 termina de pelarse.
+Barbero:	 da paso al cliente para pelarlo
+Cliente 0:	 comienza a pelarse.
+Cliente 0:	 termina de pelarse.
+Barbero:	 da paso al cliente para pelarlo
+Cliente 1:	 comienza a pelarse.
+Cliente 2:	 entra en la barberia.
+Cliente 2:	 espera porque el barbero esta ocupado.
+Cliente 0:	 entra en la barberia.
+Cliente 0:	 espera porque el barbero esta ocupado.
+Cliente 1:	 termina de pelarse.
+Barbero:	 da paso al cliente para pelarlo
+Cliente 2:	 comienza a pelarse.
+Cliente 1:	 entra en la barberia.
+Cliente 1:	 espera porque el barbero esta ocupado.
+Cliente 2:	 termina de pelarse.
+Barbero:	 da paso al cliente para pelarlo
+Cliente 0:	 comienza a pelarse.
+Cliente 2:	 entra en la barberia.
+Cliente 2:	 espera porque el barbero esta ocupado.
+Cliente 0:	 termina de pelarse.
+Barbero:	 da paso al cliente para pelarlo
+Cliente 1:	 comienza a pelarse.
+Cliente 1:	 termina de pelarse.
+Barbero:	 da paso al cliente para pelarlo
+Cliente 2:	 comienza a pelarse.
+Cliente 1:	 entra en la barberia.
+Cliente 1:	 espera porque el barbero esta ocupado.

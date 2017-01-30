@@ -1,0 +1,51 @@
+/////////////////////////////////////////////////////////////
+
+monitor gestionejemplares;
+  var
+    n1, n2 : integer
+    t1 , t2 : condition
+
+  export : pedir_recurso , liberar_recurso;
+
+///////////////////////////////////////////////////////////
+
+procedure pedir_recurso( tipo : integer )
+  begin
+    case tipo of
+      1: begin
+        if n1 == 0 then
+          t1.wait()
+        n1--;
+        libre := false;
+      end
+      2: begin
+        if n2 == 0 then
+          t2.wait()
+        n2--;
+        libre2 := false;
+      end
+    end
+  end
+
+////////////////////////////////////////////////////////////
+
+procedure liberar_recurso( tipo : integer )
+  begin
+    case tipo of
+      1 : begin
+        n1++;
+        t1.signal();
+      end
+      2 : begin
+        n2++;
+        t2.signal();
+      end
+    end
+  end
+
+////////////////////////////////////////////////////////////////
+
+begin
+  n1 := N1;
+  n2 := N2;
+end

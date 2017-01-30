@@ -1,0 +1,107 @@
+Estanquero: poniendo ingrediente 1
+Fumador 1: Fumando ingrediente 1
+Estanquero: poniendo ingrediente 1
+Fumador 1 ha terminado de fumar
+Fumador 1: Fumando ingrediente 1
+Estanquero: poniendo ingrediente 1
+Fumador 1 ha terminado de fumar
+Fumador 1: Fumando ingrediente 1
+Estanquero: poniendo ingrediente 1
+Fumador 1 ha terminado de fumar
+Fumador 1: Fumando ingrediente 1
+Estanquero: poniendo ingrediente 2
+Fumador 2: Fumando ingrediente 2
+Estanquero: poniendo ingrediente 0
+Fumador 0: Fumando ingrediente 0
+Estanquero: poniendo ingrediente 0
+Fumador 0 ha terminado de fumar
+Fumador 0: Fumando ingrediente 0
+Estanquero: poniendo ingrediente 2
+Fumador 1 ha terminado de fumar
+Fumador 2 ha terminado de fumar
+Fumador 2: Fumando ingrediente 2
+Estanquero: poniendo ingrediente 0
+Fumador 0 ha terminado de fumar
+Fumador 0: Fumando ingrediente 0
+Estanquero: poniendo ingrediente 2
+Fumador 0 ha terminado de fumar
+Fumador 2 ha terminado de fumar
+Fumador 2: Fumando ingrediente 2
+Estanquero: poniendo ingrediente 0
+Fumador 0: Fumando ingrediente 0
+Estanquero: poniendo ingrediente 0
+Fumador 2 ha terminado de fumar
+Fumador 0 ha terminado de fumar
+Fumador 0: Fumando ingrediente 0
+Estanquero: poniendo ingrediente 0
+Fumador 0 ha terminado de fumar
+Fumador 0: Fumando ingrediente 0
+Estanquero: poniendo ingrediente 1
+Fumador 1: Fumando ingrediente 1
+Estanquero: poniendo ingrediente 2
+Fumador 2: Fumando ingrediente 2
+Estanquero: poniendo ingrediente 1
+Fumador 2 ha terminado de fumar
+Fumador 0 ha terminado de fumar
+Fumador 1 ha terminado de fumar
+Fumador 1: Fumando ingrediente 1
+Estanquero: poniendo ingrediente 2
+Fumador 2: Fumando ingrediente 2
+Estanquero: poniendo ingrediente 2
+Fumador 2 ha terminado de fumar
+Fumador 2: Fumando ingrediente 2
+Estanquero: poniendo ingrediente 1
+Fumador 2 ha terminado de fumar
+Fumador 1 ha terminado de fumar
+Fumador 1: Fumando ingrediente 1
+Estanquero: poniendo ingrediente 2
+Fumador 2: Fumando ingrediente 2
+Estanquero: poniendo ingrediente 1
+Fumador 1 ha terminado de fumar
+Fumador 1: Fumando ingrediente 1
+Estanquero: poniendo ingrediente 2
+Fumador 1 ha terminado de fumar
+Fumador 2 ha terminado de fumar
+Fumador 2: Fumando ingrediente 2
+Estanquero: poniendo ingrediente 0
+Fumador 0: Fumando ingrediente 0
+Estanquero: poniendo ingrediente 1
+Fumador 1: Fumando ingrediente 1
+Estanquero: poniendo ingrediente 1
+Fumador 1 ha terminado de fumar
+Fumador 1: Fumando ingrediente 1
+Estanquero: poniendo ingrediente 0
+Fumador 1 ha terminado de fumar
+Fumador 2 ha terminado de fumar
+Fumador 0 ha terminado de fumar
+Fumador 0: Fumando ingrediente 0
+Estanquero: poniendo ingrediente 1
+Fumador 1: Fumando ingrediente 1
+Estanquero: poniendo ingrediente 0
+Fumador 1 ha terminado de fumar
+Fumador 0 ha terminado de fumar
+Fumador 0: Fumando ingrediente 0
+Estanquero: poniendo ingrediente 2
+Fumador 2: Fumando ingrediente 2
+Estanquero: poniendo ingrediente 2
+Fumador 2 ha terminado de fumar
+Fumador 2: Fumando ingrediente 2
+Estanquero: poniendo ingrediente 2
+Fumador 2 ha terminado de fumar
+Fumador 2: Fumando ingrediente 2
+Estanquero: poniendo ingrediente 0
+Fumador 0 ha terminado de fumar
+Fumador 0: Fumando ingrediente 0
+Estanquero: poniendo ingrediente 0
+Fumador 2 ha terminado de fumar
+Fumador 0 ha terminado de fumar
+Fumador 0: Fumando ingrediente 0
+Estanquero: poniendo ingrediente 2
+Fumador 2: Fumando ingrediente 2
+Estanquero: poniendo ingrediente 2
+Fumador 2 ha terminado de fumar
+Fumador 2: Fumando ingrediente 2
+Estanquero: poniendo ingrediente 1
+Fumador 1: Fumando ingrediente 1
+Estanquero: poniendo ingrediente 1
+Fumador 0 ha terminado de fumar
