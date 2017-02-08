@@ -83,11 +83,11 @@ int main(int argc, char **argv)
 	// Aqui esta el planificador ciclico
 	 while (1) {
 	    switch(marco)
-			{
-		       case 0: TareaA(); TareaB();TareaC();break;
-		       case 1: TareaA(); TareaB();TareaD();break;
-					 case 2: TareaA(); TareaB();TareaC();break;
-					 case 3: TareaA();TareaB();;break;
+	    {
+		case 0: TareaA(); TareaB();TareaC();break;
+		case 1: TareaA(); TareaB();TareaD();break;
+		case 2: TareaA(); TareaB();TareaC();break;
+		case 3: TareaA();TareaB();;break;
 	    }
 	    marco = (marco +1)% nciclos;
 	//
