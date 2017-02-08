@@ -9,11 +9,9 @@ Ciclo 3: 2
 *
 *   ejecutivociclico.c: Planificacion con ejecutivo ciclico
 *
-* 	Autor: J.A. Holgado
-*	Ultima modificacion: 20/12/2014
+* 	Autor: J.A. Ruiz Millan
 *	Plataforma: POSIX
 *	Asignatura: Sistemas Concurrentes y Distribuido
-*	Departamento: Lenguajes y Sistemas Informaticos
 * 	Universidad de Granada
 *
 * 	compilacion: gcc ejecutivociclico.c utilRT.c -o ejecutivo
