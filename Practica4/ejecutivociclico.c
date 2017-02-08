@@ -1,9 +1,9 @@
 /*Jose Antonio, Ruiz Millan, 26503402L
 Ciclo Principal 20000 milisegundos; Ciclo Secundario 5000 milisegundos
 Ciclo 0: 3
-Ciclo 1: 2
+Ciclo 1: 3
 Ciclo 2: 3
-Ciclo 3: 3
+Ciclo 3: 2
 */
 /*******************************************************************************
 *
@@ -83,11 +83,11 @@ int main(int argc, char **argv)
 	// Aqui esta el planificador ciclico
 	 while (1) {
 	    switch(marco)
-	    {
+			{
 		       case 0: TareaA(); TareaB();TareaC();break;
-		       case 1: TareaB(); TareaC();break;
+		       case 1: TareaA(); TareaB();TareaD();break;
 					 case 2: TareaA(); TareaB();TareaC();break;
-					 case 3: TareaA();TareaB();TareaD();break;
+					 case 3: TareaA();TareaB();;break;
 	    }
 	    marco = (marco +1)% nciclos;
 	//
