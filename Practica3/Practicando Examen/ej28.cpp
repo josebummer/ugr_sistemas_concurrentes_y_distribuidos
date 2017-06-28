@@ -8,7 +8,13 @@ producen la suspensión del proceso que envía la petición (debido a que se blo
 pero la tercera petición produce el desbloqueo de los tres procesos pendientes de respuesta. A continuación,
 una vez desbloqueados los tres procesos que han pedido (al recibir respuesta), inicializa la cuenta y procede
 cíclicamente de la misma forma sobre otras peticiones.
+
+Creado por: Jose Antonio Ruiz Millan.
+
+Ejercicios SCD :
+Universidad de Granada
 */
+
 #include <iostream>
 #include "mpi.h"
 #include <time.h>      // incluye "time"
