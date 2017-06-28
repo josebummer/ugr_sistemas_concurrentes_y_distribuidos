@@ -1,10 +1,9 @@
-// *****************************************************************************
-//
-// Prácticas de SCD. Práctica 1.
-// Plantilla de código para el ejercicio del productor-consumidor con
-// buffer intermedio.
-//
-// *****************************************************************************
+/*
+Creado por: Jose Antonio Ruiz Millan.
+
+Practica 1 SCD :
+Universidad de Granada
+*/
 
 #include <iostream>
 #include <cassert>
