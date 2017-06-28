@@ -1,3 +1,10 @@
+/*
+Creado por: Jose Antonio Ruiz Millan.
+
+Practica 1 SCD :
+Universidad de Granada
+*/
+
 #include <iostream>
 #include <cassert>
 #include <pthread.h>
