@@ -9,7 +9,13 @@ la sincronización requerida, teniendo en cuenta que:
 • Los salvajes podrán comer siempre que haya comida en la olla,
 • Solamente se despertará al cocinero cuando la olla esté vacı́a.
 • Los procesos usan operaciones de comunicación sı́ncronas.
+
+Creado por: Jose Antonio Ruiz Millan.
+
+Ejercicios SCD :
+Universidad de Granada
 */
+
 #include <iostream>
 #include "mpi.h"
 #include <time.h>      // incluye "time"
