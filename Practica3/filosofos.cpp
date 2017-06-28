@@ -1,3 +1,10 @@
+/*
+Creado por: Jose Antonio Ruiz Millan.
+
+Practica 3 SCD :
+Universidad de Granada
+*/
+
 #include <iostream>
 #include <time.h>      // incluye "time"
 #include <unistd.h>    // incluye "usleep"
