@@ -1,3 +1,10 @@
+/*
+Creado por: Jose Antonio Ruiz Millan.
+
+Practica 3 SCD :
+Universidad de Granada
+*/
+
 #include <mpi.h>
 #include <iostream>
 #include <math.h>
