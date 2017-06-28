@@ -1,3 +1,10 @@
+/*
+Creado por: Jose Antonio Ruiz Millan.
+
+Ejercicios SCD :
+Universidad de Granada
+*/
+
 #include <iostream>
 #include "mpi.h"
 #include <time.h>      // incluye "time"
