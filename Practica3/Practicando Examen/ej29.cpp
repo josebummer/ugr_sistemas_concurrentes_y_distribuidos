@@ -7,7 +7,13 @@ a) Envía enteros al proceso consumidor siempre que su array local tenga al meno
 disponibles.
 b) Acepta envíos de los productores mientras el array no esté lleno, pero no acepta que cualquier productor
 pueda escribir dos veces consecutivas en el búfer.
+
+Creado por: Jose Antonio Ruiz Millan.
+
+Ejercicios SCD :
+Universidad de Granada
 */
+
 #include <iostream>
 #include "mpi.h"
 #include <time.h>      // incluye "time"
