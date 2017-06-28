@@ -1,4 +1,4 @@
-/*Jose Antonio, Ruiz Millan, 26503402L
+/*Jose Antonio, Ruiz Millan
 Ciclo Principal 20000 milisegundos; Ciclo Secundario 5000 milisegundos
 Ciclo 0: 3
 Ciclo 1: 3
